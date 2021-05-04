@@ -1,0 +1,8 @@
+Positive Test Case:
+
+1) Check the title of a login page
+2) Verify the Correct username,Correct password - Login Successfully.
+
+Negative Test Cases:
+1) Verify the Incorrect username,incorrect password - Can't Login
+2) Verify valid username and empty password. - Can't Login
